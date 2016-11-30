@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|横山 翔大 (Syoudai Yokoyama))|
+|Name|横山 翔大 (Syoudai Yokoyama)|
 |Twitter|[@_quantumman_](https://twitter.com/_quantumman_)|
 |Instagram|[@quantumman](https://www.instagram.com/quantumman/)|
 
@@ -60,14 +60,14 @@
  - Emacs
  - TDD/BDD
  - Nodejs
-  - gulp, webpack etc..
-  - 個人プロジェクトのフロント開発でよく使う
+   - gulp, webpack etc..
+   - 個人プロジェクトのフロント開発でよく使う
  - Issue tracker
-  - Redmine
-  - Backlog
+   - Redmine
+   - Backlog
  - Cloud
-  - Azure
-  - Heroku (ちょっとだけ)
+   - Azure
+   - Heroku (ちょっとだけ)
 
 ## 強み
 
