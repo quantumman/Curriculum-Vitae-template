@@ -4,65 +4,102 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|ふー　ばー (Foo Bar))|
+|Twitter|[@_quantumman_](https://twitter.com/_quantumman_)|
+|Instagram|[@quantumman](https://www.instagram.com/quantumman/)|
 
 ## スキル
 
 ### 言語
 
-- プログラミング言語
+- プログラミング言語
+  - C#
+  - Haskell
+  - Elm
+  - Elixir
+  - JavaScript
+  - TypeScript
+  - HTML, CSS
 
 - 日本語
-  - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+  - ネイティブ
+- 英語
+  - 技術文書読める
+  - githubでPR出せるぐらい
+  - 日常会話は無理
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- ASP.NET WebForm ベースの社内フレームワーク
+- ASP.NET MVC/Web API
+- ASP.NET Core (ちょっとだけ)
+- EntityFramework
+  - .NET の代表的な ORM
+- Phoenix Framework
+  - Elixir の full-stack web framework
+- Yesod
+  - Haskell の full-stack web framework
+- Mithril.js
+  - 個人プロジェクトで使った
+- jQuery
+  - 1.x ~ 2.x
+- React
+- Angular
+  - 1.x
+- Dynamics CRM
+  - F/W というより Microsoft 謹製のカスタマイズ性の高いCRM
+- Bootstrap
+  - CSS framework
+- Semantic UI
+  - CSS frameowrk
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+ - Git
+ - Emacs
+ - TDD/BDD
+ - Nodejs
+  - gulp, webpack etc..
+  - 個人プロジェクトのフロント開発でよく使う
+ - Issue tracker
+  - Redmine
+  - Backlog
+ - Cloud
+  - Azure
+  - Heroku (ちょっとだけ)
 
 ## 強み
 
-## やったことはないが興味があるもの
+- 新しいことが好きなのでエッジの効いた技術を楽しく学べる
+-
 
-## 登壇歴
+## やったことはないが興味があるもの
 
-## 受賞歴
+- iOS (swift) 開発
+- Ruby on Rail でWebサービスを立ち上げる
+- インターナショナルなチームでの開発
+ - ただし、オフショアはのぞく
 
-## 執筆歴
-
-### 商業
-
-### 同人
 
 ## 職務経歴
 
 ### yyyy/mm - : 会社名
 
-職務: Webアプリケーションエンジニア（例）
+職務: Webアプリケーションエンジニア（例）
 
 #### 職務内容の名前（レストラン検索とか）
 
-- 職務内容の詳細を箇条書きでかく
+- 職務内容の詳細を箇条書きでかく
 
 #### 職務内容の名前（レストラン検索とか）
 
-- 職務内容の詳細を箇条書きでかく
+- 職務内容の詳細を箇条書きでかく
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
 
-職務: サーバーサイドエンジニア
+職務: サーバーサイドエンジニア
 
 #### 職務内容の名前（レストラン検索とか）
 
-- 職務内容の詳細を箇条書きでかく
+- 職務内容の詳細を箇条書きでかく
