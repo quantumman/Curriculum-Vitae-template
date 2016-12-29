@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|横山 翔大 (Syoudai Yokoyama)|
-|Twitter|[@_quantumman_](https://twitter.com/_quantumman_)|
+|Twitter|[@\_quantumman_](https://twitter.com/_quantumman_)|
 |Instagram|[@quantumman](https://www.instagram.com/quantumman/)|
 
 ## スキル
@@ -36,9 +36,9 @@
 * EntityFramework
   * .NET の代表的な ORM
 * Phoenix Framework
-  * Elixir の full*stack web framework
+  * Elixir の fullstack web framework
 * Yesod
-  * Haskell の full*stack web framework
+  * Haskell の fullstack web framework
 * Mithril.js
   * 個人プロジェクトで使った
 * jQuery
@@ -78,27 +78,55 @@
 * iOS (swift) 開発
 * Ruby on Rail でWebサービスを立ち上げる
 * インターナショナルなチームでの開発
-  * ただし、オフショアはのぞく
+  * ただし、オフショア開発は自分が理想と考える開発はできないと考えてるので除く
+* お仕事で Elm 使う
 
 
 ## 職務経歴
 
-### yyyy/mm * : 会社名
+### 2011/04/01 : 株式会社タイムインタメーディア
 
-職務: Webアプリケーションエンジニア（例）
+職務: Webアプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### 廃棄物管理表業務アプリの保守開発
 
-* 職務内容の詳細を箇条書きでかく
+* REST APIによるデータ連携部分の保守開発
+* フロント・サーバーの保守開発
 
-#### 職務内容の名前（レストラン検索とか）
+#### ソーシャルネットワークサービス(SNS)開発
 
-* 職務内容の詳細を箇条書きでかく
+* 全文検索の開発
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### 治験業務の基幹システム保守開発
 
-職務: サーバーサイドエンジニア
+* アジャイル開発
+* DB〜フロントエンドまでの保守・開発
+* 障害発生時の対応
+* 要件定義
+* フロントエンドをBootstrapを使ったモダンな画面にリニューアル
+* バックエンドを最新のORMへ更新
 
-#### 職務内容の名前（レストラン検索とか）
+#### 問い合わせ管理システム開発
 
-* 職務内容の詳細を箇条書きでかく
+* オンプレミスのPHP製既存システムからAzureとASP.NETを使ったシステムに移行
+* DB移行作業
+* 要件定義
+* 開発(DB+バックエンド+フロントエンド)
+
+#### 学生向けポータルサイトと関連システムの保守開発
+
+* モバイル(Android/iOS)向けアプリの保守開発
+* ポータルシステムとの連携サービスの保守
+
+#### 卒業生/支援者管理システムの保守開発
+
+* DB設計
+* 保守
+* 新規開発
+* 要件定義
+
+#### 教務システム・学生向けサービス開発
+
+* アーキテクチャ周りのヘルプ全般
+* 導入先システムに合わせたカスタマイズ部分の修正
+* 学生向けサービスの開発
