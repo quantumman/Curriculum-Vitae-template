@@ -75,6 +75,8 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 
   - CSS frameowrk
 
+- Vuejs (2.x)
+
 ### その他
 
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
@@ -97,6 +99,8 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
     - Azure
     - Heroku (ちょっとだけ)
 
+  - JSON (Hyper) Schema
+
 ## 強み
 
 - 新しいことが好きなのでエッジの効いた技術を楽しく学べる
@@ -110,6 +114,8 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
   - ただし、オフショア開発は自分が理想と考える開発はできないと考えてるので除く
 
 - お仕事で Elm 使う
+
+- JAM Stack
 
 ## 職務経歴
 
