@@ -104,6 +104,10 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 
 - 新しいことが好きなのでエッジの効いた技術を楽しく学べる
 
+## 弱み
+- 慢性的な長時間労働が強制されると心が折れる
+- Micrsoft製品を使うと心が折れる
+
 ## やったことはないが興味があるもの
 
 - iOS (swift) 開発
