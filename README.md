@@ -57,9 +57,7 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
   - 1.x ~ 2.x
 
 - React
-
-- Angular
-
+- AngularJS
   - 1.x
 
 - Dynamics CRM
