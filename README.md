@@ -36,9 +36,8 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 
 - ASP.NET WebForm ベースの社内フレームワーク
 - ASP.NET MVC/Web API
-- ASP.NET Core (ちょっとだけ)
-- EntityFramework
-
+- ASP.NET Core 1.2
+- EntityFramework 4/5
   - .NET の代表的な ORM
 
 - Phoenix Framework
