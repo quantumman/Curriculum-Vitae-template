@@ -13,7 +13,6 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 ### 言語
 
 - プログラミング言語
-
   - C#
   - Haskell
   - Elm
@@ -23,53 +22,35 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
   - HTML, CSS
 
 - 日本語
-
   - ネイティブ
 
 - 英語
-
   - 技術文書読める
   - githubでPR出せるぐらい
   - 日常会話は無理
 
 ### フレームワーク
-
 - ASP.NET WebForm ベースの社内フレームワーク
 - ASP.NET MVC/Web API
 - ASP.NET Core 1.2
 - EntityFramework 4/5
   - .NET の代表的な ORM
-
 - Phoenix Framework
-
   - Elixir の fullstack web framework
-
 - Yesod
-
   - Haskell の fullstack web framework
-
 - Mithril.js
-
   - 個人プロジェクトで使った
-
 - jQuery
-
   - 1.x ~ 2.x
-
 - React
 - AngularJS
   - 1.x
-
 - Dynamics CRM
-
   - F/W というより Microsoft 謹製のカスタマイズ性の高いCRM
-
 - Bootstrap
-
   - CSS framework
-
 - Semantic UI
-
   - CSS frameowrk
 - Vue.js (2.x)
 - Vuetify (0.7.x)
@@ -77,31 +58,22 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
   - 私の推しUIフレームワーク
 
 ### その他
-
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
-
   - Git
   - Emacs
   - TDD/BDD
   - Nodejs
-
     - gulp, webpack etc..
     - 個人プロジェクトのフロント開発でよく使う
-
   - Issue tracker
-
     - Redmine
     - Backlog
-
   - Cloud
-
     - Azure
     - Heroku (ちょっとだけ)
-
   - JSON (Hyper) Schema
 
 ## 強み
-
 - 新しいことが好きなのでエッジの効いた技術を楽しく学べる
 
 ## 弱み
@@ -113,11 +85,8 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 - iOS (swift) 開発
 - Ruby on Rail でWebサービスを立ち上げる
 - インターナショナルなチームでの開発
-
   - ただし、オフショア開発は自分が理想と考える開発はできないと考えてるので除く
-
 - お仕事で Elm 使う
-
 - JAM Stack
 
 ## 職務経歴
