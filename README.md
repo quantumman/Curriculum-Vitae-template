@@ -123,45 +123,132 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 
 職務: Webアプリケーションエンジニア
 
+#### 2017/04 ~ 進行中 卒業生向けサービス開発
+##### やったこと
+- 仕様の策定と設計
+- 技術選定・アーキテクチャ決定
+- 開発リーダー
+- Web APIの呼び出し前提なので、遅さを考えてアプリなのでSPAで体感速度をあげた
+- 開発フローにPull Requestを導入した
+- JSON Hyper Schemaを使ってフロントエンドとバックエンドの結合をちょっとだけ効率よくした
+- API設計・画面のデザインまでやった
+##### 失敗
+- JSON Hyper Schemaを使った結合の自動化がうまくいかなかった
+  - 結局、JSON Hyper Schemaから自前でクライアント作ったこと。こんなことするなら Swagger 使えばよかった
+  - そもそも結合以前の問題も多発してたので、負担を考えると採用しなかったほうがよかったかも
+- フロントエンドにテスト書けてないこと
+- バックエンドのテストの必要最低限のもしか書けてないこと
+##### 触った技術
+- Dynamics CRM 365
+- .NET Framework 4.7
+- ASP.NET Core 1.2
+- JavaScript
+- Vue.js 2.5
+- React
+- JSON Hyper Schema
+- Azure
+  - App Service
+  - Azure Functions
+  - Azure Service Bus
+
 #### 2016/04 ~ 2017/04 教務システム・学生向けサービス開発
-
-- アーキテクチャ周りのヘルプ全般
+##### やったこと
+- アーキテクチャ周りのヘルプ係
 - 導入先システムに合わせたカスタマイズ部分の修正
 - 学生向けサービスの開発
+##### 失敗
+- 入った時期が中途半端だったせいで、Azureのレガシーサービス(Cloud Services)が使われてしまった。もっと早く助言できれば回避できた可能性がある
+- 入った時期が中途半端だったせいで、レガシーORM(Linq to SQL)が使われてしまった。もっと早く助言できれば回避できた可能性がある
+##### 触った技術
+- Linq to SQL
+- ASP.NET Web Forms
+- JavaScript
+- jQuery 2.x
+- Azure
+  - Azure Cloud Services
+  - Azure SQL Server
+  - Azure Service Bus
 
-#### 2014/04 ~ 現在    卒業生/支援者管理システムの保守開発
-
+#### 2014/04 ~ 現在    卒業生/寄付者管理システムの保守開発
+##### やったこと
 - DB設計
 - 保守
 - 新規開発
 - 要件定義
-
+- 散らかったドキュメントの整備
+- リリースワークフローの改善
+- マイクロリファクタリングによるコードの改善
+##### 触った技術
+- Dynamics CRM 2011
+- .NET Framework 4.5.2/4.7
+- ASP.NET MVC 5
+- ASP.NET Web API 2
+- ASP.NET Web Forms
+- JavaScript
+- React
+
 #### 2014/04 ~ 2015/01 問い合わせ管理システム開発
-
+##### やったこと
 - オンプレミスのPHP製既存システムからAzureとASP.NETを使ったシステムに移行
 - DB移行作業
 - 要件定義
 - 開発(DB+バックエンド+フロントエンド)
+##### 触った技術
+- .NET Framework 4.5.2
+- ASP.NET MVC 5
+- Entity Framework 5
+- JavaScript
+- Angular.JS 1.x
+- Azure
+  - Azure Cloud Services
+  - Azure SQL Server
 
 #### 2014/04 ~ 2016/04 学生向けポータルサイトと関連システムの保守開発
-
+##### やったこと
 - モバイル(Android/iOS)向けアプリの保守開発
 - ポータルシステムとの連携サービスの保守
+##### 触った技術
+- .NET Framework 4.0
+- SharePoint
+- WCF Services
+- HTML
+- JavaScript
+- jQuery 1 and 2系
+- Android (KitKat)
+- iOS 10
 
 #### 2012/10 ~ 2014/03 治験業務の基幹システム保守開発
-
+##### やったこと
 - アジャイル開発
 - DB〜フロントエンドまでの保守・開発
 - 障害発生時の対応
 - 要件定義
 - フロントエンドをBootstrapを使ったモダンな画面にリニューアル
 - バックエンドを最新のORMへ更新
+##### 触った技術
+- .NET Framework 4.0/4.5.2
+- ASP.NET Web Forms
+- Entity Framework 5
+- JavaScript
+- jQuery 1 and 2系
 
 #### 2012/02 ~ 2012/09 ソーシャルネットワークサービス(SNS)開発
-
+##### やったこと
 - 全文検索の開発
+##### 利用技術
+- .NET Framework 4.5
+- ASP.NET MVC 3
+- Entity Framework 4
+- Lucene.NET
+- Azure
+  - Azure Cloud Services
+  - Blob Storage
 
 #### 2011/04 ~ 2012/02 廃棄物管理表業務アプリの保守開発
-
+##### やったこと
 - REST APIによるデータ連携部分の保守開発
 - フロント・サーバーの保守開発
+##### 利用技術
+- .NET Framework 3.5
+- ASP.NET
+- ClickOnce
