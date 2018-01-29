@@ -71,8 +71,10 @@ Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 - Semantic UI
 
   - CSS frameowrk
-
-- Vuejs (2.x)
+- Vue.js (2.x)
+- Vuetify (0.7.x)
+  - Vue.js 向けのMaterial DesignなUIフレームワーク
+  - 私の推しUIフレームワーク
 
 ### その他
 
