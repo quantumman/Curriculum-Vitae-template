@@ -13,15 +13,15 @@ GitHub    | https://github.com/quantumman
 ## スキル
 
 ### 言語
-
 - プログラミング言語
   - C#
   - Haskell
   - Elm
-  - Elixir
-  - JavaScript
+  - JavaScript (ES5, ES6, ES7)
   - TypeScript
   - HTML, CSS
+  - Kotlin
+  - Elixir
 
 - 日本語
   - ネイティブ
