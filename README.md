@@ -29,7 +29,7 @@ GitHub    | https://github.com/quantumman
 - 英語
   - 技術文書読める
   - githubでPR出せるぐらい
-  - 日常会話は無理
+  - 日常会話はブロークンイングリッシュ程度でなら何とか
 
 ### フレームワーク
 - ASP.NET WebForm ベースの社内フレームワーク
