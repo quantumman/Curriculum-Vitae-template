@@ -63,7 +63,6 @@ GitHub    | https://github.com/quantumman
 ### その他
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
   - Git
-  - Emacs
   - TDD/BDD
   - Nodejs
     - gulp, webpack etc..
@@ -75,6 +74,9 @@ GitHub    | https://github.com/quantumman
     - Azure
     - Heroku (ちょっとだけ)
   - JSON (Hyper) Schema
+- 好きなエディタ
+  - Emacs
+  - Visual Studio Code
 
 ## 強み
 - 新しいことが好きなのでエッジの効いた技術を楽しく学べる
