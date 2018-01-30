@@ -29,7 +29,7 @@ GitHub    | https://github.com/quantumman
 - 英語
   - 技術文書読める
   - githubでPR出せるぐらい
-  - 日常会話はブロークンイングリッシュ程度でなら何とか
+  - 日常会話はブロークンイングリッシュ程度でなら何とか
 
 ### フレームワーク
 - ASP.NET WebForm ベースの社内フレームワーク
@@ -50,10 +50,10 @@ GitHub    | https://github.com/quantumman
   - CSS frameowrk
 - Vue.js (2.x)
 - Vuetify (0.7.x)
-  - Vue.js 向けのMaterial DesignなUIフレームワーク
+  - Vue.js 向けのMaterial DesignなUIフレームワーク
   - 私の推しUIフレームワーク
 
-#### 個人で触ったことのあるもの
+#### 個人で触ったことのあるもの
 - Phoenix Framework
   - Elixir の fullstack web framework
 - Yesod
@@ -82,7 +82,7 @@ GitHub    | https://github.com/quantumman
 - 新しいことが好きなのでエッジの効いた技術を楽しく学べる
 
 ## 弱み
-- 慢性的な長時間労働が強制されると心が折れる
+- 慢性的な長時間労働が強制されると心が折れる
 - Micrsoft製品を使うと心が折れる
 
 ## やったことはないが興味があるもの
@@ -107,20 +107,20 @@ GitHub    | https://github.com/quantumman
 #### 2017/04 ~ 進行中 卒業生向けサービス開発
 ##### やったこと
 - 開発リーダー
-  - フレームワークに関するHow-to的なアドバイス
+  - フレームワークに関するHow-to的なアドバイス
   - 実装の方針やレビュー
-- 仕様の策定と設計
-- バックエンドの技術選定・アーキテクチャ（一部)
+- 仕様の策定と設計
+- バックエンドの技術選定・アーキテクチャ（一部)
 - フロントエンドの技術選定・アーキテクチャ
   - Web APIの呼び出し前提なので、遅さを考えてアプリなのでSPAで体感速度をあげた
 - 開発フローにPull Requestを導入した
-- JSON Hyper Schemaを使ってフロントエンドとバックエンドの結合をちょっとだけ効率よくした
+- JSON Hyper Schemaを使ってフロントエンドとバックエンドの結合をちょっとだけ効率よくした
 - API設計
 - 画面のデザイン
 ##### 失敗
-- フロントエンドにテスト書けてないこと
+- フロントエンドにテスト書けてないこと
 - バックエンドのテストが必要最低限のもしか書けてないこと
-##### 触った技術
+##### 触った技術
 - Dynamics CRM 365
 - .NET Framework 4.7
 - ASP.NET Core 1.2
@@ -132,7 +132,7 @@ GitHub    | https://github.com/quantumman
   - App Service
   - Azure Functions
   - Azure Service Bus
-
+
 #### 2016/04 ~ 2017/04 教務システム・学生向けサービス開発
 ##### やったこと
 - アーキテクチャ周りのヘルプ係
@@ -140,9 +140,9 @@ GitHub    | https://github.com/quantumman
 - 学生向けサービスの開発
 - 後輩のメンター
 ##### 失敗
-- 入った時期が中途半端だったせいで、Azureのレガシーサービス(Cloud Services)が使われてしまった。もっと早く助言できれば回避できた可能性がある
-- 入った時期が中途半端だったせいで、レガシーORM(Linq to SQL)が使われてしまった。もっと早く助言できれば回避できた可能性がある
-##### 触った技術
+- 入った時期が中途半端だったせいで、Azureのレガシーサービス(Cloud Services)が使われてしまった。もっと早く助言できれば回避できた可能性がある
+- 入った時期が中途半端だったせいで、レガシーORM(Linq to SQL)が使われてしまった。もっと早く助言できれば回避できた可能性がある
+##### 触った技術
 - Linq to SQL
 - ASP.NET Web Forms
 - JavaScript
@@ -150,7 +150,7 @@ GitHub    | https://github.com/quantumman
 - Azure
   - Azure Cloud Services
   - Azure SQL Server
-  - Azure Service Bus
+  - Azure Service Bus
 
 #### 2014/04 ~ 現在    卒業生/寄付者管理システムの保守開発
 ##### やったこと
@@ -160,8 +160,8 @@ GitHub    | https://github.com/quantumman
 - 要件定義
 - 散らかったドキュメントの整備
 - リリースワークフローの改善
-- マイクロリファクタリングによるコードの改善
-##### 触った技術
+- マイクロリファクタリングによるコードの改善
+##### 触った技術
 - Dynamics CRM 2011
 - .NET Framework 4.5.2/4.7
 - ASP.NET MVC 5
@@ -169,7 +169,7 @@ GitHub    | https://github.com/quantumman
 - ASP.NET Web Forms
 - JavaScript
 - React
-
+
 #### 2014/04 ~ 2015/01 問い合わせ管理システム開発
 ##### やったこと
 - オンプレミスのPHP製既存システムからAzureとASP.NETを使ったシステムに移行
@@ -196,7 +196,7 @@ GitHub    | https://github.com/quantumman
 - WCF Services
 - HTML
 - JavaScript
-- jQuery 1 and 2系
+- jQuery 1 and 2系
 - Android (KitKat)
 - iOS 10
 
@@ -213,7 +213,7 @@ GitHub    | https://github.com/quantumman
 - ASP.NET Web Forms
 - Entity Framework 5
 - JavaScript
-- jQuery 1 and 2系
+- jQuery 1 and 2系
 
 #### 2012/02 ~ 2012/09 ソーシャルネットワークサービス(SNS)開発
 ##### やったこと
