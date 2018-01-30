@@ -5,7 +5,7 @@
 key       | value
 --------- | ----------------------------------------------------
 Name      | 横山 翔大 (Syoudai Yokoyama)
-Twitter   | [@_quantumman_](https://twitter.com/_quantumman_)
+Twitter   | [@\_quantumman\_](https://twitter.com/_quantumman_)
 Instagram | [@quantumman](https://www.instagram.com/quantumman/)
 
 ## スキル
