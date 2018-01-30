@@ -92,7 +92,11 @@ GitHub    | https://github.com/quantumman
 - インターナショナルなチームでの開発
   - ただし、オフショア開発は自分が理想と考える開発はできないと考えてるので除く
 - お仕事で Elm 使う
+- お仕事で Haskell 使う
 - JAM Stack
+- Google Cloud Platform (GCP) に Function as a Service (FaaS) があるのできになる
+- サーバレスアーキテクチャー
+- 転職
 
 ## 職務経歴
 
