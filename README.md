@@ -37,12 +37,6 @@ GitHub    | https://github.com/quantumman
 - ASP.NET Core 1.2
 - EntityFramework 4/5
   - .NET の代表的な ORM
-- Phoenix Framework
-  - Elixir の fullstack web framework
-- Yesod
-  - Haskell の fullstack web framework
-- Mithril.js
-  - 個人プロジェクトで使った
 - jQuery
   - 1.x ~ 2.x
 - React
@@ -58,6 +52,13 @@ GitHub    | https://github.com/quantumman
 - Vuetify (0.7.x)
   - Vue.js 向けのMaterial DesignなUIフレームワーク
   - 私の推しUIフレームワーク
+
+#### 個人で触ったことのあるもの
+- Phoenix Framework
+  - Elixir の fullstack web framework
+- Yesod
+  - Haskell の fullstack web framework
+- Mithril.js
 
 ### その他
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
