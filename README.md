@@ -32,9 +32,10 @@ GitHub    | https://github.com/quantumman
   - 日常会話はブロークンイングリッシュ程度でなら何とか
 
 ### フレームワーク
-- ASP.NET WebForm ベースの社内フレームワーク
+- ASP.NET Web Forms ベースの社内フレームワーク
 - ASP.NET MVC/Web API
 - ASP.NET Core 1.2
+- .NET Framework (3.5/4.0/4.5.2/4.7)
 - EntityFramework 4/5
   - .NET の代表的な ORM
 - jQuery
@@ -50,7 +51,7 @@ GitHub    | https://github.com/quantumman
   - CSS frameowrk
 - Vue.js (2.x)
 - Vuetify (0.7.x)
-  - Vue.js 向けのMaterial DesignなUIフレームワーク
+  - Vue.js のMaterial Design UIフレームワーク
   - 私の推しUIフレームワーク
 
 #### 個人で触ったことのあるもの
