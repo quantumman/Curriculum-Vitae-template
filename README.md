@@ -37,7 +37,8 @@
 ## 資格
 
 - 基本情報技術者試験 (2008)
-- CMS 認定スクラムマスター (2020/08)
+- CSM 認定スクラムマスター (2020/08)
+  - https://bcert.me/bc/html/show-badge.html?b=xxervjvg
 
 ## 職務経歴(現職)
 
